@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @I-SHA
 - 👀 I’m interested in PCB designing, writing and debugging C programs, learning new microcontrollers, etc.
-- 🌱 I’m currently a final year Electronics Enginnering student. I've also worked at SCAD Technologies as a trainee specializing in PCB designing, and did a 6 month long internship at TIFR, Colaba as a Embedded product deaigner and Technical Lead.
+- 🌱 Currently I'm pursuing B.Tech in Electronics and Communication Engineering at Usha Mittal Institute of Technology, SNDTWU. I've also worked at SCAD Technologies as a trainee specializing in PCB designing, and did a 6 month long internship at Tata Institute of Fundamental Institute, Colaba as a Embedded product deaigner and Technical Lead.
 - 💞️ I’m looking to collaborate on any sorts of Electronics or IoT based projects.
 - 📫 Reach me @ictodankar02@gmail.com
 
